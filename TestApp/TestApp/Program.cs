@@ -20,5 +20,10 @@ namespace TestApp
         {
 
         }
+
+        static void Func3()
+        {
+
+        }
     }
 }
