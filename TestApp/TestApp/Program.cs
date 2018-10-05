@@ -10,10 +10,5 @@ namespace TestApp
 
             Console.ReadKey();
         }
-
-        public void AddedInMaster()
-        {
-
-        }
     }
 }
