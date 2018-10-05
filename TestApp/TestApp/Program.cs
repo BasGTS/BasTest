@@ -15,5 +15,10 @@ namespace TestApp
         {
 
         }
+
+        static void Func2()
+        {
+
+        }
     }
 }
